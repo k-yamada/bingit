@@ -1,0 +1,2 @@
+git fetch master
+git rebase master
